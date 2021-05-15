@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+      "thermal:chiller_rod_cast",
+      "immersiveengineering:mold_rod"
+    ]
+  }

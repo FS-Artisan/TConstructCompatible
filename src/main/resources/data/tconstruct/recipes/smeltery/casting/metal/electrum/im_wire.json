@@ -1,0 +1,12 @@
+{
+    "type": "tconstruct:casting_table",
+    "cast": {
+      "item": "immersiveengineering:mold_wire"
+    },
+    "fluid": {
+      "name": "tconstruct:molten_electrum",
+      "amount": 144
+    },
+    "result": "immersiveengineering:wire_electrum",
+    "cooling_time": 20
+  }

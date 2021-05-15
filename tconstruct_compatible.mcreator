@@ -1,0 +1,32 @@
+{
+  "id_map": {},
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "tconstruct_compatible",
+    "modName": "TConstruct Compatible",
+    "version": "1.0.0",
+    "author": "HLFT",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "null",
+    "modElementsPackage": "tconstruct.compatible",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
